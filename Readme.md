@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 Working on: End-to-end ML pipelines integrating predictive & prescriptive analytics.<br><br>👯 Collaborating: Open-source MLOps and Mathematical Optimization tools.<br><br>🤝 Seeking help: Scaling Deep Learning models into production environments.<br><br>🌱 Learning: Deep Reinforcement Learning (DRL) & Graph Neural Networks (GNNs).<br><br>💬 Ask me about: Linear Programming, Neural Networks, and Decision Science.
+I'm a Operational Research Student in Delhi University interested in all things about Python and Machine Learning . 🌱 
 
-
+![Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishekrawat._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-rawat-1571b8222/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekrawat.du.or.26@gmail.com) 
 
