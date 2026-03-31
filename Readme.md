@@ -2,8 +2,6 @@
 
 🚀 **Data Scientist/Analyst | Operational Research | Problem Solver | Tech Enthusiast** 📍 Delhi, India
 
-![Visitors](https://img.shields.io/badge/Visitors-527-2eb886)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5)](https://www.linkedin.com/in/abhishek-rawat-1571b8222)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-d14836)](mailto:abhishekrawat.du.or.26@gmail.com)
 
