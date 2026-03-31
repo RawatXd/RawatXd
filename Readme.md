@@ -15,10 +15,3 @@
 * 🌌 Background in **Operational Research → Data Science**, blending scientific rigor with business value
 
 ---
-
----
-
-## 🛠️ Tech Stack
-
-
-
