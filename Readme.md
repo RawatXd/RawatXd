@@ -10,7 +10,7 @@
 ## ⚡ About Me
 
 * 🎯 Passionate about **turning data into impact** through statistics and machine learning
-* 🛠️ Experienced in **Python, SQL, Tableau, PowerBI, MS Office**
+* 🛠️ Experienced in **Python, SQL, PowerBI, MS Office**
 * 📊 Skilled in **Predictive Analytics, Deep Learning, NLP, Time-Series, Anomaly Detection**
 * 🌌 Background in **Operational Research → Data Science**, blending scientific rigor with business value
 
