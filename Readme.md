@@ -22,10 +22,10 @@ Passionate about turning data into actionable insights using Statistics, Machine
 ## 🚀 Featured Projects
 
 - [**DecisionX-Fifa World Cup Optimizer**](https://github.com/RawatXd/DecisonX-fifa_world_cup) → Monte Carlo Simulation + Integer Programming; FIFA tournament forecasting
+- [**Credit-Risk-Scorecard**](https://github.com/RawatXd/Credit-Risk-Analysis) → Logistic Regression, WOE-IV feature engineering, credit scorecard development, model comparison
 - [**AeroOptima – Flight Delay & Gate Optimization**](https://github.com/RawatXd/AeroOptima) → XGBoost (0.71 ROC-AUC) + Integer Programming (PuLP/CBC); ML-OR integration with Streamlit dashboard
 - [**Space-X Falcon9 Landing Prediction**](https://github.com/RawatXd/Space-X-Falcon9-Prediction) → Logistic Regression, SVM (~0.83 accuracy), Decision Tree & KNN
 - [**Financial Derivatives Pricing & Risk Analysis**](https://github.com/RawatXd/Financial-Derivatives-Pricing-And-Risk-Analysis) → Black-Scholes model + Monte Carlo simulation
-- [**Cricket World Cup Analysis**](https://github.com/RawatXd/cricket-world-cup-Analysis) → PowerBI + Dax Measures + Power Query
 
 ---
 
